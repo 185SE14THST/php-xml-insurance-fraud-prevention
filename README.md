@@ -60,4 +60,5 @@ Copyright (c) JP. All rights reserved.
 Licensed under the [MIT](LICENSE.txt) License.
 
 ## Contact for collaboration
+**Usage:** This code is not intended to be used in a production enviroment. Its sole purpose is for visualization and functional tests.
 **Projects:** Interested in taking this sample development even further? Contact the author of this sample for collaborative opportunities.

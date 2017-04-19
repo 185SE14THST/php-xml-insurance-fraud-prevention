@@ -2,6 +2,7 @@
 Simplifying Fraud Analytics for your call center with FA Portal integration.
 > **Note:** This sample is not meant for production. It serves as a rough draft or prof of concept. 
 > Code syntax, formatting, comments, free typose and flagrant misuse of CSS may be offensive to the senses.
+
 ![Screen shot](https://raw.githubusercontent.com/185SE14THST/php-xml-insurance-fraud-prevention/master/sample.jpg "Sample #1")
 
 This repo contains the samples that demonstrate a 'detecting fraudulent form-based activity based on user definitions'. This sample would apply to industries with high transactional portals such as insurance, banking and ecommerce. With further development the sample may show:

@@ -54,13 +54,11 @@ The following technologies were used to develope this sample:
 * [Syntevo SmartGit 17.0.3](http://www.syntevo.com/smartgit/)
 * [Oracle VirtualBox 5.1](https://www.virtualbox.org/)
 
-
 ## License
 
-Copyright (c) JP. All rights reserved.
+ All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) License.
 
-## Contact for collaboration
-**Usage:** This code is not intended to be used in a production enviroment. Its sole purpose is for visualization and functional tests.
-**Projects:** Interested in taking this sample development even further? Contact the author of this sample for collaborative opportunities.
+## Demonstration Notes
+This sample was prepared for the purposes of a single function demonstration or proof-of-concept. It is not intened to be used for production or commercial use. Content including pictures and HTML content is not intended to reflect any actual product or certain persons property (intellectual or otherwise).
